@@ -15,7 +15,6 @@ Here is the structure of the script:
 ```
 
 Stocks Transforming Data
-
 1) Importing Python Libraries
 2) Importing Stock Datasets
 3) Observing Datatypes for all datasets
