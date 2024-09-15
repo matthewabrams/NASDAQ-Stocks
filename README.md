@@ -1,6 +1,6 @@
 # NASDAQ-Stocks-2014-2024
 
-My project is based on historic stocks 2014-2024. Source of data came from [Nasdaq.com]((https://www.nasdaq.com/market-activity/quotes/historical))
+My project is based on historic stocks 2014-2024. Source of data came from [Nasdaq.com](https://www.nasdaq.com/market-activity/quotes/historical)
 
 # Key Questions & Objectives
 
