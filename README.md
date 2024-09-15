@@ -33,4 +33,4 @@ Stocks EDA
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Stock Analysis 2014-2024]([(https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis2014-2024/StockAnalysis?publish=yes)])
+Here is the project delivery that describes my analysis: [Stock Analysis 2014-2024]((https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis2014-2024/StockAnalysis?publish=yes))
