@@ -10,7 +10,7 @@ My project is based on historic stocks 2014-2024. Source came from [Nasdaq.com](
 
 # Script
 
-Here is the structure of the script: Note this historical data starts at September 15th 2014, ends at September 13th 2024. To keep up with current trends, data will need to be redownloaded. However, Python code will remain the same given the output will produce the same goals but with a given different timeline.
+Here is the structure of the script: Note this historical data will vary to keep up with current trends, therefore data will need to be redownloaded. However, Python code will remain the same given the output will produce the same goals but with a given different timeline.
 ```
 
 Stocks Transforming Data
