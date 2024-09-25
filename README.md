@@ -14,25 +14,10 @@ My project is based on historic stocks 2014-2024. Source came from [Nasdaq.com](
 Here is the structure of the script: Note this historical data will vary to keep up with current trends, therefore data will need to be redownloaded. However, Python code will remain the same given the output will produce the same goals but with a given different timeline.
 ```
 
-A: Stocks Transforming Data
-1) Importing Python Libraries
-2) Importing Stock Datasets
-3) Observing Datatypes for all datasets
-4) Adding Additional Columns to Each Dataset
-5) Converting values of columns to appropriate datatype
-6) Checking For Duplicates
-7) Combine All Datasets
-8) Exporting drafted dataframe
-
-B: Stocks EDA
-1) Importing Python Libraries
-2) Importing Customed Stock Dataset
-3) Descriptive Stats
-4) Prepping for Visualizations
-
-C: Linear Regression
-
-D: Clustering
+1) Stocks Transforming Data
+2) Stocks EDA
+3) Linear Regression
+4) Clustering
 
 ```
 # Tableau Dashboard
