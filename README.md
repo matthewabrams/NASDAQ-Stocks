@@ -7,6 +7,7 @@ My project is based on historic stocks 2014-2024. Source came from [Nasdaq.com](
 * How many shares of stocks have been traded for the day?
 * What is the current trend for Nasdaq stocks?
 * What is the expected closing price of each stock for the next coming year?
+* What correlations, if any, can we conclude between different factors of the stock market?
 
 # Script
 
