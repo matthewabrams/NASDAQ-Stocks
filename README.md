@@ -1,6 +1,6 @@
-# NASDAQ-Stocks-2014-2024
+# NASDAQ-Stocks
 
-My project is based on historic stocks 2014-2024. Source came from [Nasdaq.com](https://www.nasdaq.com/market-activity/quotes/historical), can only download up to ten years worth of historical data.
+My project is based on historic stocks. Used a Python library: yfinance to fetch data downloading market data from Yahoo, Finance's API.
 
 # Key Questions & Objectives
 
@@ -13,13 +13,13 @@ My project is based on historic stocks 2014-2024. Source came from [Nasdaq.com](
 
 Here is the structure of the script: Note this historical data will vary to keep up with current trends, therefore data will need to be redownloaded. However, Python code will remain the same given the output will produce the same goals but with a given different timeline.
 ```
-
-1) Stocks Transforming Data
-2) Stocks EDA
-3) Linear Regression
-4) Clustering
+1) Getting Data
+2) Stocks Transforming Data
+3) Stocks EDA
+4) Linear Regression
+5) Clustering
 
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Stock Analysis 2014-2024](https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis2014-2024/StockAnalysis?publish=yes)
+Here is the project delivery that describes my analysis: [Stock Analysis]([https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis2014-2024/StockAnalysis?publish=yes](https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis_17279693837590/StockAnalysis))
