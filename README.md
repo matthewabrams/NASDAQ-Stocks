@@ -22,4 +22,4 @@ Here is the structure of the script: Note this historical data will vary to keep
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Stock Analysis]([https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis2014-2024/StockAnalysis?publish=yes](https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis_17279693837590/StockAnalysis))
+Here is the project delivery that describes my analysis: [Stock Analysis]([https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis2014-2024/StockAnalysis?publish=yes](https://public.tableau.com/app/profile/matthew3308/viz/StockAnalysis_17279693837590/StockAnalysis)
