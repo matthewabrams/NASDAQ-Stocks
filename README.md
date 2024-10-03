@@ -6,7 +6,7 @@ My project is based on historic stocks. Used a Python library, yfinance, to fetc
 
 * How many shares of stocks have been traded for the day?
 * What is the current trend for Nasdaq stocks?
-* What is the expected closing price of each stock for the next coming year?
+* What is the expected closing price of each stock for the next coming month?
 * What correlations, if any, can we conclude between different factors of the stock market?
 
 # Script
