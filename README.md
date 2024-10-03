@@ -1,6 +1,6 @@
 # NASDAQ-Stocks
 
-My project is based on historic stocks. Used a Python library:, yfinance, to fetch data downloading market data from Yahoo, Finance's API.
+My project is based on historic stocks. Used a Python library, yfinance, to fetch data downloading market data from Yahoo, Finance's API.
 
 # Key Questions & Objectives
 
