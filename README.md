@@ -11,7 +11,11 @@ My project is based on historic stocks. Used a Python library, yfinance, to fetc
 
 # Visualizations
 
-Here are graphs of stock trends: Note forecasting models have been made using moving averages (one for 6 months, one for 1 year).
+Here are graphs of stock trends: Note forecasting models have been made using moving averages (one for 6 months, one for 1 year). Go to Stock Data Folder -> Visualization Folder
+
+See a sample:
+<img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/977689dd-f32b-4ff5-861b-17c5049327ff" />
+
 
 # Script
 
