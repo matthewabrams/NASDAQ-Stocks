@@ -9,6 +9,10 @@ My project is based on historic stocks. Used a Python library, yfinance, to fetc
 * What is the expected closing price of each stock for the next coming month?
 * What correlations, if any, can we conclude between different factors of the stock market?
 
+# Visualizations
+
+Here are graphs of stock trends: Note forecasting models have been made using moving averages (one for 6 months, one for 1 year).
+
 # Script
 
 Here is the structure of the script: Note this historical data will vary to keep up with current trends, therefore data will need to be redownloaded. However, Python code will remain the same given the output will produce the same goals but with a given different timeline.
